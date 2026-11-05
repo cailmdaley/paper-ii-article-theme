@@ -1,0 +1,14 @@
+{
+  "source": "https://github.com/cailmdaley/astra-theme",
+  "sourceCommit": "8092060f70dc5e67cc536242619cc015635fbeb7",
+  "upstreamBase": "b287a6c",
+  "lockSha256": "27c0c437ee89d96d801326bb1d7f0e7d75d32eaf1267aab2f9338368a0503014",
+  "commands": [
+    "npm ci",
+    "npm test",
+    "npm run typecheck",
+    "npm run build:article"
+  ],
+  "testResult": "149 tests in 17 files pass",
+  "localReportCheck": "12/12 images; no pending content or browser errors; dialog prose links/Back, exclusions, three inherited provenance paths, caption links and caption suppression pass"
+}

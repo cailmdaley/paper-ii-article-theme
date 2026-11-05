@@ -1,0 +1,1 @@
+import{a as e,b as r}from"/myst_assets_folder/_shared/chunk-EW4YGMMG.js";import"/myst_assets_folder/_shared/chunk-TPGU7AC5.js";import"/myst_assets_folder/_shared/chunk-RAQ24GF6.js";export{e as ArchitectureModule,r as createArchitectureServices};
